@@ -19,9 +19,7 @@ import {
     starbucks,
     tesla,
     shopify,
-    carrent,
     jobit,
-    tripguide,
     threejs,
   } from "../assets";
   
@@ -188,67 +186,124 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Tic-Tac-Toe Game",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Tic Tac Toe game implemented in HTML, CSS, and JavaScript. The game allows two players to take turns making moves and checks for a winner or a draw after each move.",
       tags: [
         {
-          name: "react",
+          name: "HTML",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "CSS",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: carrent,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Job IT",
-      description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
+          name: "JavaScript",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/MohiniMehta",
     },
     {
-      name: "Trip Guide",
+      name: "Alumni-Connect",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "This is a Alumni Connect website implemented in html, css, javascript, php and MySQL, where students can connect to alumni. They can also discuss various topics in group discussion.",
       tags: [
         {
-          name: "nextjs",
+          name: "HTML",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "CSS",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "PHP",
           color: "pink-text-gradient",
         },
+        {
+          name: "JavaScript",
+          color: "blue-text-gradient",
+        },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: jobit,
+      source_code_link: "https://github.com/MohiniMehta",
+    },
+    {
+      name: "Catalog App",
+      description:
+        "Flutter-based shopping app, reminiscent of Amazon. Users can seamlessly sign in, explore a vast array of products, and effortlessly manage their selections by adding items to the shopping cart.",
+      tags: [
+        {
+          name: "Flutter",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Firebase",
+          color: "green-text-gradient",
+        },
+       
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/MohiniMehta",
+    },
+    {
+      name: "HouseJoy",
+      description:
+        "This is a C++ home maintenance system with file handling, hashing, and secure data practices, allowing users to manage data based on profession and region-specific pin codes.",
+      tags: [
+        {
+          name: "C++",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/MohiniMehta",
+    },
+    {
+      name: "To-Do",
+      description:
+        "Smart Todo app designed using MERN to help you organize your tasks efficiently. This app allows you to list your tasks, mark them as completed, and delete them when you're done.",
+      tags: [
+        {
+          name: "MongoDB",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Expressjs",
+          color: "green-text-gradient",
+        },
+        {
+          name: "React",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Nodejs",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/MohiniMehta",
+    },
+    {
+      name: "App Based Audiometer",
+      description:
+        "App Based audiometer using Flutter. This app detects the hearing loss and is helpfull in mass testing.",
+      tags: [
+        {
+          name: "Flutter",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Firebase",
+          color: "green-text-gradient",
+        },
+        
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/MohiniMehta",
     },
   ];
   
