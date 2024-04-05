@@ -27,6 +27,12 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import jobit from "./jobit.png";
+import tictactoe from "./tictactoe.png";
+import alumniconnect from "./alumniconnect.jpg";
+import todo from "./todo.png";
+import housejoy from "./housejoy.png";
+import catalogapp from "./catalog app.png";
+import audiometer from "./audiometer.jpg";
 
 export {
   logo,
@@ -55,4 +61,10 @@ export {
   starbucks,
   tesla,
   jobit,
+  tictactoe,
+  alumniconnect,
+  audiometer,
+  todo,
+  housejoy,
+  catalogapp,
 };

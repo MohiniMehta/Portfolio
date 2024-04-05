@@ -21,6 +21,13 @@ import {
     shopify,
     jobit,
     threejs,
+    alumniconnect,
+    tictactoe,
+    catalogapp,
+    housejoy,
+    todo,
+    audiometer,
+
   } from "../assets";
   
   export const navLinks = [
@@ -203,8 +210,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/MohiniMehta",
+      image: tictactoe,
+      source_code_link: "https://github.com/MohiniMehta/Tic_Tac_Toe_game",
     },
     {
       name: "Alumni-Connect",
@@ -228,8 +235,8 @@ import {
           color: "blue-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/MohiniMehta",
+      image: alumniconnect,
+      source_code_link: "https://github.com/MohiniMehta/AlumniConnect",
     },
     {
       name: "Catalog App",
@@ -246,8 +253,8 @@ import {
         },
        
       ],
-      image: jobit,
-      source_code_link: "https://github.com/MohiniMehta",
+      image: catalogapp,
+      source_code_link: "https://github.com/MohiniMehta/Catalog-app",
     },
     {
       name: "HouseJoy",
@@ -259,8 +266,8 @@ import {
           color: "blue-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/MohiniMehta",
+      image: housejoy,
+      source_code_link: "https://github.com/MohiniMehta/HouseJoy",
     },
     {
       name: "To-Do",
@@ -284,8 +291,8 @@ import {
           color: "blue-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/MohiniMehta",
+      image: todo,
+      source_code_link: "https://github.com/MohiniMehta/TODO",
     },
     {
       name: "App Based Audiometer",
@@ -302,8 +309,7 @@ import {
         },
         
       ],
-      image: jobit,
-      source_code_link: "https://github.com/MohiniMehta",
+      image: audiometer,
     },
   ];
   
